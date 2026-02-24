@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.13 (PythonProject7)" />
+=======
+    <option name="sdkName" value="Python 3.13 (PythonProject6)" />
+>>>>>>> d54f3cbc18335387e7e5660344286f2de46f83f0
   </component>
 </project>
