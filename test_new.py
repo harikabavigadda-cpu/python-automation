@@ -4,4 +4,5 @@ def test_json():
     with open("kim.json", "w") as file:
         json.dump(data, file, indent=4)
     assert data ["bts"] == "ot"
+    assert data ["blackpink"] == "jin"
 
