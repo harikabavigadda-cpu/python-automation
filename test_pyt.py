@@ -6,6 +6,8 @@ def test_py():
     assert data ["name"]=="heyyy"
     assert data ["k"]=="jk"
     assert data ["age"]==34
+    assert data ["city"]=="hyd"
+
 
 
 
